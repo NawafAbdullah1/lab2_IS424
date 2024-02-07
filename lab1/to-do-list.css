@@ -4,6 +4,7 @@
     width: 500px;
     margin: auto;
     font-size: 30px;
+    color: red;
     border: 1px solid #9bf781;
     box-shadow: 0 0 10px 2px #333333;
 }
